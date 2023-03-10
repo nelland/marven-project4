@@ -62,7 +62,7 @@
 
       <plugin>
         <artifactId>maven-site-plugin</artifactId>
-        <reporting>
+        <configuration>
           <reportPlugins>
             <plugin>
               <artifactId>maven-checkstyle-plugin</artifactId>
