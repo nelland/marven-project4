@@ -61,7 +61,7 @@
       </plugin>
 
       <plugin>
-        <artifactId>maven-site-plugin</artifactId>
+        <artifactId>reportPlugins</artifactId>
         <configuration>
           <reportPlugins>
             <plugin>
@@ -141,7 +141,7 @@
         </plugin>
 
         <plugin>
-          <artifactId>maven-site-plugin</artifactId>
+          <artifactId>reportPlugins</artifactId>
           <version>3.0</version>
         </plugin>
 
